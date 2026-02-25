@@ -8,6 +8,8 @@ This is a native Delphi 12 console implementation of a binary bisection techniqu
 
 ---
 
+![](/demo.gif)
+
 ## Overview
 
 DefenderCheck automates binary bisection against **MpCmdRun.exe** (Microsoft Defender CLI scanner).
